@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(76, 100, 76);
+}
+
+.trecho{
+    background-color: #1e4432; 
+}
+
+.p2{
+    display: inline-block;
+    float: right;
+    width: 1300px;
+}
+
