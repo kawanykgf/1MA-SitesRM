@@ -2,6 +2,10 @@ body{
     background-color: rgb(76, 100, 76);
 }
 
+.titulo{
+    background-color: #1e4432;
+}
+
 .trecho{
     background-color: #1e4432; 
 }
@@ -11,4 +15,26 @@ body{
     float: right;
     width: 1300px;
 }
+.cu{
 
+    display: inline-block;
+    float: right;
+    width: 1300px;
+
+}
+
+.poggers{
+    display: inline-block;
+    float: right;
+    width: 1300px;
+
+
+}
+
+.atlas{
+    display: inline-block;
+    float: right;
+    width: 1300px;
+
+
+}
